@@ -1,0 +1,27 @@
+﻿body
+{
+
+}
+
+.top-row {
+    background: rgb(0,249,255);
+    background: linear-gradient(142deg, rgba(0,249,255,1) 2%, rgba(193,0,255,1) 50%, rgba(255,0,194,1) 100%);
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    font-weight: 800;
+}
+
+.underlinethin {
+    border-bottom: 1px solid #000000;
+}
+
+.blue-btn {
+    background: rgb(0,249,255);
+    background: linear-gradient(142deg, rgba(0,249,255,1) 2%, rgba(193,0,255,1) 50%, rgba(255,0,194,1) 100%);
+    color: white;
+}
